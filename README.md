@@ -1,9 +1,10 @@
-<h1># 💫 About Me: <img src="https://github.com/JesDev12U/JesDev12U/assets/119618881/392fae48-c3d2-48d4-970c-4771fa43e026" width="70px" alt="ghost1"></h1>
+<img src="https://github.com/JesDev12U/JesDev12U/assets/119618881/462c4577-03c6-4e63-9d8c-1ee58bf3fe6c"/>
+<h1>💫 About Me: <img src="https://github.com/JesDev12U/JesDev12U/assets/119618881/0f408030-3845-4d16-ac64-2b1c0145c0c1" width="70px" alt="ghost1"> </h1>
 
 -> 👋 Hi! I'm JesDev12U, my real name is Jesus Antonio Lopez Bandala 😁<br><br>-> 🎓 I'm studying the third semester of informatic's engineering in UPIICSA IPN, also I'm studied informatic technitian in CECyT 12 IPN<br><br>-> ✨ I love programming, it's my hobby and I'm always learning some new thing. For example, I plan to study C#, Javascript or some other language for increase my knowledge.<br><br>-> ⭐ I don't have experience of any work on TI, but I developed some programs in C++, Java, Visual Basic, Python, Web pages (HTML, CSS, a bit of javascript, PHP). Also I use MySQL, phpMyAdmin.<br>Finally, my best project was a aplication for Android, I named "Vocafe 12" is a aplication for a coffee shop at CECyT 12, I developed that aplication in one month. I maded more aplications, but I barely use GitHub, so I will start to upload my new projects here :)
 
 
-<h1>## 🌐 Socials: <img src="https://github.com/JesDev12U/JesDev12U/assets/119618881/a4a4b96b-bfe1-4782-b45a-5c3c629414c5" width="50px" alt="ghost3"></h1>
+<h1> 🌐 Socials: <img src="https://github.com/JesDev12U/JesDev12U/assets/119618881/a4a4b96b-bfe1-4782-b45a-5c3c629414c5" width="50px" alt="ghost3"></h1>
 
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jesusantonio.lopezbandala.7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jes_12u) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jalb12u) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@.jes12u) 
@@ -11,7 +12,7 @@
 # 💻 Tech Stack: <img src="https://github.com/JesDev12U/JesDev12U/assets/119618881/018c2ad1-608f-418b-b570-33a5e910e91e" width="50px" alt="ghost2">
 
 <p align="left"> 
-  <h2>Programming Language</h2>
+  <h2>Programming Languages</h2>
   <!-- C -->
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"       height="40"/> </a> 
   <!-- C++ -->
@@ -38,7 +39,7 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 
-<h2>Version Control System</h2>
+<h2>Git</h2>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 
 <h2>SO (except Windows :D)</h2>
