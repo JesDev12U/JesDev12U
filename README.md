@@ -1,55 +1,26 @@
-<!--
-<style>
-    h1{
-        display:grid;
-        grid-template-columns:80% 1fr;
-        border-bottom: 7px solid;
-        border-radius: 20px;
-        background-color: #201F1F;
-        padding:5px;
-        padding-top:10px;
-        font-family:'Hack Nerd Font Mono';
-    }
-    h2{
-        border-bottom: 7px solid;
-        border-radius: 20px;
-        background-color: #0E0E0E;
-        text-align: center;
-        padding: 10px;
-    }
-    p a:hover{
-        background-color:#201F1F;
-    }
-    p .bash{
-        background-color:white;
-        border-radius:8px;
-    }
-    .text-about{
-        font-family:'Hack Nerd Font Mono';
-        background-color:black;
-        padding:20px;
-        border-style:solid;
-        border-color:green;
-        margin-bottom:20px;
-    }
-    .symbol1{
-        color:#116CDA;
-    }
-    .symbol2{
-        color:#19B501;
-    }
-    .presentation-card{
-        border-radius:30px;
-        margin-bottom:20px;
-    }
-</style>
--->
-<img src="https://github.com/JesDev12U/JesDev12U/assets/119618881/462c4577-03c6-4e63-9d8c-1ee58bf3fe6c" class="presentation-card"/>
+<p align="center">
+    <img src="https://github.com/JesDev12U/JesDev12U/assets/119618881/462c4577-03c6-4e63-9d8c-1ee58bf3fe6c" class="presentation-card" align="center"/>
+    
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "Hello World!\n";
+    return 0;
+}
+```
+</p>
+
 <h1>💫 About Me: <img src="https://github.com/JesDev12U/JesDev12U/assets/119618881/0f408030-3845-4d16-ac64-2b1c0145c0c1" width="70px" alt="ghost1"> </h1>
 
-<div class="text-about">
-<span class="symbol1">~</span><span class="symbol2">$</span> 👋 Hi! I'm JesDev12U, my real name is Jesus Antonio Lopez Bandala 😁<br><br><span class="symbol1">~</span><span class="symbol2">$</span> 🎓 I'm studying the third semester of informatic's engineering in UPIICSA IPN, also I'm studied informatic technitian in CECyT 12 IPN<br><br><span class="symbol1">~</span><span class="symbol2">$</span> ✨ I love programming, it's my hobby and I'm always learning some new thing. For example, I plan to study C#, Javascript or some other language for increase my knowledge.<br><br><span class="symbol1">~</span><span class="symbol2">$</span> ⭐ I don't have experience of any work on TI, but I developed some programs in C++, Java, Visual Basic, Python, Web pages (HTML, CSS, a bit of javascript, PHP). Also I use MySQL, phpMyAdmin.<br>Finally, my best project was a aplication for Android, I named "Vocafe 12" is a aplication for a coffee shop at CECyT 12, I developed that aplication in one month. I maded more aplications, but I barely use GitHub, so I will start to upload my new projects here :)
-</div>
+<ul type="square">
+    <li>👋 Hi! I'm JesDev12U, my real name is Jesus Antonio Lopez Bandala 😁</li>
+    <li><img draggable="false" src="https://github.com/JesDev12U/JesDev12U/assets/119618881/cdb2ee00-6bfa-4340-9629-aa681fcb4516" width="20px"/> I'm from Chimalhuacan, Mexico</li>
+    <li>🎓 I'm studying the third semester of informatic's engineering in UPIICSA <img src="https://github.com/JesDev12U/JesDev12U/assets/119618881/5d9a6292-f970-4f52-ba1d-cac458c41598" width="20px"/> IPN <img src="https://github.com/JesDev12U/JesDev12U/assets/119618881/bd04d7dc-a809-41f2-ac10-fbc2e557f897" width="10px"/>, also I'm studied informatic technitian in CECyT 12 <img src="https://github.com/JesDev12U/JesDev12U/assets/119618881/9fd3c990-70cf-464f-a87e-80296d5bffd5" width="20px"/> IPN <img src="https://github.com/JesDev12U/JesDev12U/assets/119618881/bd04d7dc-a809-41f2-ac10-fbc2e557f897" width="10px"/></li>
+    <li>✨ I love programming, it's my hobby and I'm always learning some new thing. For example, I plan to study C#, Javascript or some other language for increase my knowledge.</li>
+    <li>⭐ I don't have experience of any work on TI, but I developed some programs in C++, Java, Visual Basic, Python, Web pages (HTML, CSS, a bit of javascript, PHP). Also I use MySQL, phpMyAdmin.<br>Finally, my best project was a aplication for Android, I named "Vocafe 12" is a aplication for a coffee shop at CECyT 12, I developed that aplication in one month. I maded more aplications, but I barely use GitHub, so I will start to upload my new projects here :)</li>
+</ul>
 
 <h1> 🌐 Socials: <img src="https://github.com/JesDev12U/JesDev12U/assets/119618881/a4a4b96b-bfe1-4782-b45a-5c3c629414c5" width="50px" alt="ghost3"></h1>
 
@@ -58,8 +29,10 @@
 
 # 💻 Tech Stack: <img src="https://github.com/JesDev12U/JesDev12U/assets/119618881/018c2ad1-608f-418b-b570-33a5e910e91e" width="50px" alt="ghost2">
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jesdev12u&show_icons=true&locale=en&layout=donut&theme=radical" alt="jesdev12u" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jesdev12u&show_icons=true&theme=radical" alt="jesdev12u" style="margin-left:20px"/></p>
 
-<h2>Programming Languages</h2>
+<h2 align="center">Programming Languages</h2>
 <p align="center"> 
   <!-- C -->
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"       height="40"/> </a> 
@@ -72,7 +45,7 @@
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" class="bash"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" class="bash"/> </a> 
   
-<h2>Web design</h2>
+<h2 align="center">Web design</h2>
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -80,22 +53,22 @@
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
 </p>
 
-<h2>Frameworks</h2>
+<h2 align="center">Frameworks</h2>
 <p align="center">
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
 </p>
-<h2>Databases</h2>
+<h2 align="center">Databases</h2>
 <p align="center">
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 </p>
-<h2>Git</h2>
+<h2 align="center">Git</h2>
 <p align="center">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
-<h2>SO (except Windows :D)</h2>
+<h2 align="center">SO (except Windows :D)</h2>
 <p align="center">
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>   
 </p>
