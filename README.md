@@ -1,3 +1,4 @@
+<!--
 <style>
     h1{
         display:grid;
@@ -42,9 +43,9 @@
         margin-bottom:20px;
     }
 </style>
-
+-->
 <img src="https://github.com/JesDev12U/JesDev12U/assets/119618881/462c4577-03c6-4e63-9d8c-1ee58bf3fe6c" class="presentation-card"/>
-<h1 style="">💫 About Me: <img src="https://github.com/JesDev12U/JesDev12U/assets/119618881/0f408030-3845-4d16-ac64-2b1c0145c0c1" width="70px" alt="ghost1"> </h1>
+<h1>💫 About Me: <img src="https://github.com/JesDev12U/JesDev12U/assets/119618881/0f408030-3845-4d16-ac64-2b1c0145c0c1" width="70px" alt="ghost1"> </h1>
 
 <div class="text-about">
 <span class="symbol1">~</span><span class="symbol2">$</span> 👋 Hi! I'm JesDev12U, my real name is Jesus Antonio Lopez Bandala 😁<br><br><span class="symbol1">~</span><span class="symbol2">$</span> 🎓 I'm studying the third semester of informatic's engineering in UPIICSA IPN, also I'm studied informatic technitian in CECyT 12 IPN<br><br><span class="symbol1">~</span><span class="symbol2">$</span> ✨ I love programming, it's my hobby and I'm always learning some new thing. For example, I plan to study C#, Javascript or some other language for increase my knowledge.<br><br><span class="symbol1">~</span><span class="symbol2">$</span> ⭐ I don't have experience of any work on TI, but I developed some programs in C++, Java, Visual Basic, Python, Web pages (HTML, CSS, a bit of javascript, PHP). Also I use MySQL, phpMyAdmin.<br>Finally, my best project was a aplication for Android, I named "Vocafe 12" is a aplication for a coffee shop at CECyT 12, I developed that aplication in one month. I maded more aplications, but I barely use GitHub, so I will start to upload my new projects here :)
