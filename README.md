@@ -45,7 +45,7 @@
     },
     "microcontrollers": ["Arduino", "PIC"]
   },
-  "db": ["MySQL", "phpMyAdmin"],
+  "db": ["MySQL", "Firebase", "SQLite"],
   "design": ["Figma"],
   "control versions": ["Git"],
   "microsoft": {
@@ -92,7 +92,9 @@
 <h2 align="center">Frameworks</h2>
 <p align="center">
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
-   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vue.js" width="40" height="40" /></a>
+
 </p>
 <h2 align="center">Databases</h2>
 <p align="center">
