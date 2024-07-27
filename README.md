@@ -1,64 +1,60 @@
-<p align="center">
-    <img src="https://github.com/JesDev12U/JesDev12U/assets/119618881/462c4577-03c6-4e63-9d8c-1ee58bf3fe6c" class="presentation-card" align="center"/>
-    
+![PresentationCard](https://github.com/JesDev12U/JesDev12U/assets/119618881/462c4577-03c6-4e63-9d8c-1ee58bf3fe6c)
+
 ```json
 {
-    "general": {
-        "name": "Jesus Antonio Lopez Bandala",
-        "age": 20,
-        "birthday": "22/04/2004",
-        "hobbies": ["Programming", "Videogames"]
+  "general": {
+    "name": "Jesus Antonio Lopez Bandala",
+    "age": 20,
+    "birthday": "22/04/2004",
+    "hobbies": ["Programming", "Videogames"]
+  },
+  "studies": {
+    "institute": "IPN",
+    "middle highschool": {
+      "school": "CECyT 12 José María Morelos",
+      "career": "Information Technology Technician",
+      "status": "Graduated with professional certificate"
     },
-    "studies": {
-        "institute": "IPN",
-        "middle highschool": {
-            "school": "CECyT 12 José María Morelos",
-            "career": "Information Technology Technician",
-            "status": "Graduated with professional certificate"
-        },
-        "highschool": {
-            "school": "UPIICSA",
-            "career": "Informatics Engineering",
-            "status": "Fifth semester student"
-        }
-    },
-    "languages": ["Spanish", "English"],
-    "programming knowledge": {
-        "languages": [
-            "C",
-            "C++", 
-            "Java",  
-            "JavaScript",
-            "Python",
-            "PHP",
-            "Assembly",
-            "Processing"
-        ],
-        "web": [
-            "HTML",
-            "CSS"
-        ],
-        "data exchange": ["JSON"],
-        "frameworks": {
-            "javascript": ["Vue.js"],
-            "python": ["Django", "Flask"]
-        },
-        "so": {
-            "windows": "powershell",
-            "linux": "bash"
-        },
-        "microcontrollers": ["Arduino", "PIC"]
-    },
-    "db": ["MySQL", "phpMyAdmin"],
-    "design": ["Figma"],
-    "microsoft": {
-        "office": ["Word", "PowerPoint", "Excel", "Access"]
+    "highschool": {
+      "school": "UPIICSA",
+      "career": "Informatics Engineering",
+      "status": "Fifth semester student"
     }
+  },
+  "languages": ["Spanish", "English"],
+  "programming knowledge": {
+    "languages": [
+      "C",
+      "C++",
+      "Java",
+      "JavaScript",
+      "Python",
+      "PHP",
+      "Assembly",
+      "Processing"
+    ],
+    "web": ["HTML", "CSS"],
+    "data exchange": ["JSON"],
+    "frameworks": {
+      "javascript": ["Vue.js"],
+      "python": ["Django", "Flask"]
+    },
+    "so": {
+      "windows": "powershell",
+      "linux": "bash"
+    },
+    "microcontrollers": ["Arduino", "PIC"]
+  },
+  "db": ["MySQL", "phpMyAdmin"],
+  "design": ["Figma"],
+  "control versions": ["Git"],
+  "microsoft": {
+    "office": ["Word", "PowerPoint", "Excel", "Access"]
+  }
 }
 ```
-</p>
 
-<h1>💫 About Me: <img src="https://github.com/JesDev12U/JesDev12U/assets/119618881/0f408030-3845-4d16-ac64-2b1c0145c0c1" width="70px" alt="ghost1"> </h1>
+# 💫 About Me: <img src="https://github.com/JesDev12U/JesDev12U/assets/119618881/0f408030-3845-4d16-ac64-2b1c0145c0c1" width="70px" alt="ghost1"> </h1>
 
 <ul type="square">
     <li>👋 Hi! I'm JesDev12U, my real name is Jesus Antonio Lopez Bandala 😁</li>
@@ -71,11 +67,6 @@
 <h1> 🌐 Socials: <img src="https://github.com/JesDev12U/JesDev12U/assets/119618881/a4a4b96b-bfe1-4782-b45a-5c3c629414c5" width="50px" alt="ghost3"></h1>
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jesusantonio.lopezbandala.7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jes_12u) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jalb12u) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@.jes12u)
-
-# 💻 Tech Stack: <img src="https://github.com/JesDev12U/JesDev12U/assets/119618881/018c2ad1-608f-418b-b570-33a5e910e91e" width="50px" alt="ghost2">
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jesdev12u&show_icons=true&locale=en&layout=donut&theme=radical" alt="jesdev12u" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jesdev12u&show_icons=true&theme=radical" alt="jesdev12u" style="margin-left:20px"/></p>
 
 <h2 align="center">Programming Languages</h2>
 <p align="center"> 
