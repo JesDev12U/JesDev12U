@@ -34,6 +34,7 @@
       "PHP",
       "Processing"
     ],
+    "enviroments": ["Node.js"],
     "web": ["HTML", "CSS"],
     "data exchange": ["JSON"],
     "frameworks": {
