@@ -1,4 +1,4 @@
-![PresentationCard](https://github.com/JesDev12U/JesDev12U/assets/119618881/462c4577-03c6-4e63-9d8c-1ee58bf3fe6c)
+<!-- ![PresentationCard](https://github.com/JesDev12U/JesDev12U/assets/119618881/462c4577-03c6-4e63-9d8c-1ee58bf3fe6c) -->
 
 # JSON summary
 
@@ -93,11 +93,21 @@
 </p>
 
 # 💎 Frameworks
-
+## 🍷 Python
 <p>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
+</p>
+
+## 🍷 Javascript
+<p>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vue.js" width="40" height="40" /></a>
+</p>
+
+# 💎 Enviroments
+## 🍷 Javascript
+<p>
+  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="40" height="40"></a>
 </p>
 
 # 💎 Databases
