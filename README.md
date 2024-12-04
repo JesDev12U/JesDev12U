@@ -70,7 +70,7 @@
 
 <h1> 🌐 Socials: <img src="https://github.com/JesDev12U/JesDev12U/assets/119618881/a4a4b96b-bfe1-4782-b45a-5c3c629414c5" width="50px" alt="ghost3"></h1>
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jesusantonio.lopezbandala.7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jes_12u) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jalb12u) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@.jes12u)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jesusantonio.lopezbandala.7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jes_12u) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jalb12u) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@.jes12u) [![YouTube](https://img.shields.io/badge/YouTube-F04030.svg?logo=youtube&logoColor=white)](https://www.youtube.com/@jesusantoniolopezbandala3569)
 
 # 💎 Programming
 
