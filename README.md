@@ -8,7 +8,7 @@
 
 <hr />
 
-[![Curriculum](https://img.shields.io/badge/Curriculum-000?logo=asahilinux)](https://docs.google.com/document/d/1itxllgDp-G7XuR3f_-_GeJkAEsRgiI6f/edit?usp=sharing&ouid=102397761982891395186&rtpof=true&sd=true)
+[![Curriculum](https://img.shields.io/badge/Curriculum-000?logo=asahilinux)](https://github.com/JesDev12U/portfolio/blob/main/cv.pdf)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=mdbook)](https://portfolio-jesdev12us-projects.vercel.app)
 
 <ul type="square">
@@ -42,6 +42,8 @@
   <a href="https://nextjs.org" target="_blank"><img src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" alt="Next.js" width="40" height="40" title="Next.js" /></a>
   <!-- HeroUI -->
   <a href="https://www.heroui.com" target="_blank"><img src="https://cdn-1.webcatalog.io/catalog/heroui/heroui-icon-filled-256.png?v=1747111349810" alt="HeroUI" width="40" height="40" title="HeroUI" /></a>
+  <!-- TailwindCSS -->
+  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1280px-Tailwind_CSS_Logo.svg.png" alt="TailwindCSS" width="40" height="40" title="TailwindCSS"/></a> 
   <!--PHP-->
   <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" title="PHP"/></a>
   <!-- Composer -->
