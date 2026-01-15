@@ -94,7 +94,7 @@
   <!-- Archlinux -->
   <a href="https://archlinux.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="archlinux" width="40" height="40" title="Archlinux" /></a>
   <!-- Debian -->
-  <a href="" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/debian/debian-icon.svg" alt="debian" width="40" height="40" title="Debian" /></a>
+  <a href="https://www.debian.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/debian/debian-icon.svg" alt="debian" width="40" height="40" title="Debian" /></a>
   <!-- Fedora -->
   <a href="https://fedoraproject.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getfedora/getfedora-icon.svg" alt="fedora" width="40" height="40" title="Fedora"/></a>
   <!-- Blackarch -->
